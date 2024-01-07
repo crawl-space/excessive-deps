@@ -17,7 +17,7 @@
     "angular": "^1.8.2",
     "angular2": "^2.0.0-beta.21",
     "apollo-server-express": "^2.25.1",
-    "aws-sdk": "^2.931.0",
+    "aws-sdk": "^2.1520.0",
     "connect-mongo": "^4.4.1",
     "digital-keyboard-demos": "^1.0.1",
     "ember": "^1.0.3",
